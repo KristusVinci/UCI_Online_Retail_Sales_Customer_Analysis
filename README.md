@@ -134,7 +134,7 @@ Online-Retail-Sales-Customer-Analysis/
      └── top_ten_best_selling_products.sql
      └── top_ten_countries_by_sale_revenues.sql
      └── top_ten_customers.sql
-
+```
 
 ## Limitations
 
